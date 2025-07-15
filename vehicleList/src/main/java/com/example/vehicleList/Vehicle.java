@@ -3,7 +3,7 @@ package com.example.vehicleList;
 public class Vehicle {
     private String name;
 
-    // Default constructor (no-args)
+
     public Vehicle() {
     }
 
